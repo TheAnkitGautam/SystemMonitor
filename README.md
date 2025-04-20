@@ -107,7 +107,6 @@ Using Node.js Server:
 
 ```json
 POST http://localhost:5000/api/metrics
-Content-Type: application/json
 
 {
   "cpu": 24.7,
