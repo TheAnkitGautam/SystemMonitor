@@ -12,7 +12,7 @@ A real-time system monitoring tool with plugin architecture and API integration,
 ### 1. Clone Repository
 
 ```bash
-[git clone https://github.com/TheAnkitGautam/system-monitor.git](https://github.com/TheAnkitGautam/SystemMonitor.git)
+https://github.com/TheAnkitGautam/SystemMonitor.git
 ```
 
 
